@@ -1,0 +1,14 @@
+
+img{
+    max-width: 400px;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+}
+
+.News_card{
+    margin: 30px;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(206, 9, 9, 0.15);
+}
+
